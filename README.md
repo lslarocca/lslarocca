@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/lslarocca"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Larocca-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/lucaslarocca"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Larocca-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/luucaslarocca"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-luucaslarocca-black?style=flat-square&logo=instagram"></a>
 
