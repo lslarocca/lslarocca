@@ -38,7 +38,7 @@
 
 <h3>🛠 Estudando</h3>
 
-- 🔧 &nbsp; React | Docker | PHP | Gutenberg
+- 🔧 &nbsp; React | Docker | PHP | Gutenberg | Oxygen
 
 <hr>
 
