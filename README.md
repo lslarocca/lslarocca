@@ -1,18 +1,19 @@
+
 ### Olá 👋<h2> Eu sou o Lucas</h2>
 
 <img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
 
-<h3> 👨🏻•💻 Sobre mim </h3>
+<h3> 🧔🏻•💻 Sobre mim </h3>
 
 
 
-- 🤔 &nbsp; Em uma jornada de aprendizado constante.
+- 📚 &nbsp; Em uma jornada de aprendizado constante.
 
-- 🎓 &nbsp; Engenheiro de Produção.
+- 🎓 &nbsp; Engenharia de Produção.
 
-- 🌱 &nbsp; Me especializando em desenvolvimento web.
+- 🌱 &nbsp; Desenvolvedor Web.
 
-- ✍️ &nbsp; Buscando sempre conhecimento sobre novas tecnologias e aprimorarando a qualidade dos meus códigos.
+- ✍️ &nbsp; Continuamente empenhado em adquirir conhecimentos sobre novas tecnologias e aprimorar a qualidade dos meus códigos.
 
 
 
@@ -20,25 +21,19 @@
 
 
 
-- 💻 &nbsp; HTML | CSS | JavaScript 
+- 💻 &nbsp; HTML | CSS | JavaScript | PHP
 
-- 🌐 &nbsp; Bootstrap | WordPress
-
-<!--
+- 🌐 &nbsp; Bootstrap | Tailwind | WordPress | Gutenberg | Oxygen Builder | Elementor
 
 - 🛢 &nbsp; MySQL | MariaDB
 
-- 🔧 &nbsp; Git | Markdown 
+- 🔧 &nbsp; Git
 
-- 🖥 &nbsp; Photoshop
-
--->
-
-
+- 🖥 &nbsp; Figma
 
 <h3>🛠 Estudando</h3>
 
-- 🔧 &nbsp; React | Docker | PHP | Gutenberg | Oxygen
+- 🔧 &nbsp; React | Node |
 
 <hr>
 
