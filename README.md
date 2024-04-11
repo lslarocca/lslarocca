@@ -33,7 +33,7 @@
 
 <h3>🛠 Estudando</h3>
 
-- 🔧 &nbsp; React | Node |
+- 🔧 &nbsp; React | NodeJS |
 
 <hr>
 
