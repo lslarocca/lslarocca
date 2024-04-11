@@ -29,7 +29,7 @@
 
 - 🔧 &nbsp; Git
 
-- 🖥 &nbsp; Figma
+- 🎨 &nbsp; Figma
 
 <h3>🛠 Estudando</h3>
 
